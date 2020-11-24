@@ -10,6 +10,14 @@
             "StackName": "amplify-samplenuxtamplify-dev-210441",
             "StackId": "arn:aws:cloudformation:us-east-1:688964930879:stack/amplify-samplenuxtamplify-dev-210441/3fe60210-2e4d-11eb-8aab-0a5afd1032bb",
             "AmplifyAppId": "d20ar0bzsasubn"
+        },
+        "categories": {
+            "hosting": {
+                "amplifyhosting": {
+                    "appId": "d20ar0bzsasubn",
+                    "type": "cicd"
+                }
+            }
         }
     }
 }
